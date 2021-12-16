@@ -9,8 +9,20 @@ body {
   position: relative;
 }
 .fa-burn {
-  font-size: 20px;
+  font-size: 22px;
+  color: yellow;
+}
+.fa-fire-alt{
+  font-size: 22px;
   color: red;
+}
+.fa-icicles{
+  font-size: 22px;
+  color: white;
+}
+.fa-cloud-showers-heavy{
+  font-size: 22px;
+  color: grey;
 }
 .location-info {
   position: absolute;

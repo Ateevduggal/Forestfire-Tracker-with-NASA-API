@@ -1,10 +1,10 @@
 import React from "react";
 
-const Forest = ({ lat, lng, onClick }) => {
+const Forest = ({ onClick }) => {
   return (
     <>
       <div className="location-marker" onClick={onClick}>
-        <i className="fas fa-burn"></i>
+        <i className="fa-brands fa-gripfire"></i>
       </div>
     </>
   );

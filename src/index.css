@@ -8,19 +8,19 @@ body {
   width: 100vw;
   position: relative;
 }
-.fa-burn {
+.fa-gripfire {
   font-size: 22px;
-  color: yellow;
+  color: #e25822;
 }
-.fa-fire-alt{
+.fa-volcano {
   font-size: 22px;
-  color: red;
+  color: brown;
 }
-.fa-icicles{
+.fa-icicles {
   font-size: 22px;
   color: white;
 }
-.fa-cloud-showers-heavy{
+.fa-cloud-showers-heavy {
   font-size: 22px;
   color: grey;
 }
